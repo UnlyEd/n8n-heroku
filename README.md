@@ -32,7 +32,7 @@ you can change your app's stack using heroku cli, make sure you have heroku cli 
     heroku login
 
 #### change app stack
-    heroku stack:set contaner --app APP_NAME
+    heroku stack:set container --app APP_NAME
 replace APP_NAME with your heroku app name
 
 ### STEP 2: ADD Config Vars for enabling basic authentication (Optional)
